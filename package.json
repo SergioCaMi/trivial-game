@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Hemos implementado un juego de preguntas y respuestas tipo Trivial ®️ siguiendo una arquitectura REST API. El fichero _index.html_ consume una serie de endpoints del servidor que manda los datos en formato JSON.",
   "dependencies": {
     "express": "^5.1.0",
     "morgan": "^1.10.0"
